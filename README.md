@@ -2,7 +2,7 @@
 
 A collection of those pesky SDK folders.  Compiled from various releases of Xcode.
 
-# Extrat Using Homebrew
+# Extract Using Homebrew
 
 ``` bash
 $ brew install xz
